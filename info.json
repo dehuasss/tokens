@@ -1,11 +1,11 @@
 { 
-"name": "BFFA",
-"website": "",
-"description": "Block future business school building grassroots entrepreneurship and sustainable development of the industrialization of education comprehensive research platformWe will at the appropriate time, set up personnel in Secret uncapped Buddha degree of community groups, fu to the world's top block ecological chain, for the related areas, to provide marketing and education, data growth, etc. ",
-"explorer": "https://bscscan.com/token/0x045b10def61289bfab96b4ca1c11cf93d9468129",
-"type": "BEP20",
-"symbol": “BFFA”,
-"decimals": 18,
+"name": "Disney NFT",
+"website": "https://thewaltdisneycompany.com/",
+"description": "Disney Parks, Experiences and Products is the global hub that brings Disney’s stories, characters, and franchises to life through theme parks and resorts, cruise and vacation experiences, and consumer products—everything from toys to apparel, and books to video games. ",
+"explorer": "https://www.bscscan.com/address/0x77FD5538080A0E8DA15360CFb80F06b9614202b1",
+"type": "ERC721",
+"symbol": "Disney NFT",
+"decimals": 1,
 "status": "active",
-"id": "0x045b10def61289bfab96b4ca1c11cf93d9468129"
+"id": "0x77FD5538080A0E8DA15360CFb80F06b9614202b1"
 }
